@@ -1,0 +1,15 @@
+a82e365f82d54447f554dc184e86e3fb *DESCRIPTION
+32614b9add6c6ae179e0f58d010fe38c *NAMESPACE
+ea01bc495e1ffd8eb9b55c4c4cb00d82 *NEWS.md
+17a0050e196ff27997c0368a92f66df4 *R/functions.R
+e040be60cc2a47f8d4b157109b988a56 *R/tcftt.R
+3489abdf055db3856eb107985536135a *README.md
+d0288c4d4342730cbb2f307f374bc104 *man/adjust_power.Rd
+e524b2396507d216190dcbf25f08ad27 *man/boot_test.Rd
+7d4d3be88caa27366c01587a6a1f78b1 *man/compute_t.Rd
+a424fb3d4e581d25b754de2eb243efbc *man/pauc.Rd
+a1a56ca02da32681c3bbacae783f37cb *man/t_cornish_fisher.Rd
+c1a55a54bcf709f38485ff80cafc12b9 *man/t_edgeworth.Rd
+e95e301ade3b2df03cf67b344091684e *man/tcftt.Rd
+244848cce0f2a81bb70b488e059c3366 *man/tcfu.Rd
+1622640d9fd7c6ae662bbc4fdb908a67 *man/tt.Rd
